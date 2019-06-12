@@ -1,6 +1,6 @@
 # TourOfHeroesApp
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a2a35d355644c779e84088becd87e9c)](https://www.codacy.com/app/oliverwreath/CRUDwithAngular?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=oliverwreath/CRUDwithAngular&amp;utm_campaign=Badge_Grade)
-[![Build Status](https://travis-ci.org/oliverwreath/CRUDwithAngular.svg?branch=master)](https://travis-ci.org/oliverwreath/CRUDwithAngular)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/985e1b86473c4b86b0bd2b9919de196d)](https://www.codacy.com/app/oliverwreath/TourOfHeroesApp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=oliverwreath/TourOfHeroesApp&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/oliverwreath/TourOfHeroesApp.svg?branch=master)](https://travis-ci.org/oliverwreath/TourOfHeroesApp)
 
 Fix Weird errors - update package.json: 
 "karma-jasmine-html-reporter": "^1.4.0",
